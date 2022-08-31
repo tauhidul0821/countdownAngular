@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "moment-countdown": "0.0.3",
     "moment-duration-format": "^2.3.2",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "ngx-countdown": "^8.0.3",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
